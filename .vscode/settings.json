@@ -1,0 +1,14 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ],
+    "cSpell.words": [
+        "javac"
+    ],
+    "docwriter.progress.trackClasses": false,
+    "docwriter.progress.trackTypes": false,
+    "docwriter.progress.trackMethods": false,
+    "docwriter.progress.trackFunctions": false
+}
